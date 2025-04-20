@@ -15,12 +15,21 @@
   </a>
 </p>
 
-<h1 align="center">GitHub stats</h1>
-<p align="center">
-<a href="https://github.com/devesh4424/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh4424&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-</a>
-</p>
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=devesh4424&show_icons=true&theme=github_dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh4424&layout=compact&theme=github_dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=devesh4424&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">Heatmap</h1>
 <img src="https://raw.githubusercontent.com/devesh4424/devesh4424/output/snake.svg" alt="Snake animation" />
