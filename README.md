@@ -4,7 +4,7 @@
 <p align="center">I am a full-stack cross-platform app developer, pursuing my Bachlors's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to make meaningful applications with best UI practices.</p>
 
 <p align="center">
-  <a href="https://portfolio-bhavesh-03.vercel.app/">
+  <a href="https://portfolio-devesh.vercel.app/">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge"/>
   </a>
   <a href="mailto:deveshzinzuwadia1234@gmail.com">
