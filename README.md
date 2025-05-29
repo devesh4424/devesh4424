@@ -1,7 +1,8 @@
 ![MasterHead](header.png)
 
 <h1 align="center">About me</h1>
-<p align="center">I am a full-stack cross-platform app developer, pursuing my Bachlors's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to make meaningful applications with best UI practices.</p>
+<p align="center">I am a Full-Stack Cross-Platform App Developer and a Knight badge holder on LeetCode (1917 rating), currently pursuing my Bachelor's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to build meaningful applications with scalable architecture and best UI/UX practices, combining creativity with technical precision to deliver impactful solutions.
+</p>
 
 <p align="center">
   <a href="https://portfolio-devesh-phi.vercel.app/">
