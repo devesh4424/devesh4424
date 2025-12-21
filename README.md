@@ -36,9 +36,6 @@
 
 </div>
 
-<h1 align="center">Heatmap</h1>
-<img src="https://raw.githubusercontent.com/devesh4424/devesh4424/output/snake.svg" alt="Snake animation" />
-
 <h1 align="center">Technologies used</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
