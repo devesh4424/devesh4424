@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-devesh-phi.vercel.app/">
+  <a href="https://portfolio-hazel-sigma-83.vercel.app">
     <img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge"/>
   </a>
   <a href="mailto:deveshzinzuwadia1234@gmail.com">
