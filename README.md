@@ -1,7 +1,7 @@
 ![MasterHead](header.png)
 
 <h1 align="center">About me</h1>
-<p align="center">I am a Full-Stack Cross-Platform App Developer and a Knight badge holder on LeetCode (1917 rating), currently pursuing my Bachelor's degree in Computer Science from Vishwakarma Institute of Information Technology, Pune. I strive to build meaningful applications with scalable architecture and best UI/UX practices, combining creativity with technical precision to deliver impactful solutions.
+<p align="center">I am a passionate Software Engineer with a strong foundation in building scalable applications and solving complex problems. I love working with modern technologies.Experienced in software development with exposure to DevOps and cloud technologies, and actively upskilling in Agentic AI systems.
 </p>
 
 <p align="center">
